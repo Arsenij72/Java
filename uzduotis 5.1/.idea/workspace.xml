@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7948f54a-a712-4180-a6e7-e9a02fb2c8f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uzduotis 5.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/.idea/uzduotis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/uzduotis/01_01.AdaLovelace/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/uzduotis/01_01.AdaLovelace/src/main/java/AdaLovelace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/uzduotis/01_01.AdaLovelace/src/test/java/AdaLovelaceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/uzduotis/01_02.OnceUponATime/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/uzduotis/01_02.OnceUponATime/src/main/java/OnceUponATime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/uzduotis/01_02.OnceUponATime/src/test/java/OnceUponATimeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/uzduotis/01_03.Message/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/uzduotis/01_03.Message/src/main/java/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/uzduotis/01_03.Message/src/test/java/MessageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/uzduotis/01_04.Greeting/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/uzduotis/01_04.Greeting/src/main/java/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/uzduotis/01_04.Greeting/src/test/java/GreetingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/uzduotis/01_05.Story/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/uzduotis/01_05.Story/src/main/java/Story.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/uzduotis/01_05.Story/src/test/java/StoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis/uzduotis/uzduotis.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Arsenij72&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Arsenij72/Java.git&quot;,
+    &quot;accountId&quot;: &quot;d715fc85-f456-4e7d-b6c3-efbe5bf45174&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2rNxSR0IoS0PJNnlqjHlQiU3CBZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DivideByThree.executor": "Run",
+    "Application.DivisibleByThree (1).executor": "Run",
+    "Application.DivisibleByThree.executor": "Run",
+    "Application.Division.executor": "Run",
+    "Application.FromOneToParameter.executor": "Run",
+    "Application.FromParameterToOne.executor": "Run",
+    "Application.Greatest.executor": "Run",
+    "Application.InAHoleInTheGround.executor": "Run",
+    "Application.Reprint.executor": "Run",
+    "Application.Smallest.executor": "Run",
+    "Application.Summation.executor": "Run",
+    "Application.divideByThree.executor": "Run",
+    "JUnit.All in 05_05.Division.executor": "Run",
+    "JUnit.DivisibleByThreeTest.executor": "Run",
+    "JUnit.DivisionTest.executor": "Run",
+    "JUnit.FromOneToParameterTest.executor": "Run",
+    "JUnit.FromParameterToOneTest.executor": "Run",
+    "JUnit.InAHoleInTheGroundTest.executor": "Run",
+    "JUnit.SmallestTest.executor": "Run",
+    "JUnit.SummationTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "google-java-format.settings"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.AveragingTest">
+    <configuration name="Averaging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Averaging" />
+      <module name="05_12.Averaging" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Greatest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greatest" />
+      <module name="05_11.Greatest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AveragingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05_12.Averaging" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AveragingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05_11.Greatest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GreatestTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05_10.Smallest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SmallestTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AveragingTest" />
+        <item itemvalue="Application.Averaging" />
+        <item itemvalue="JUnit.GreatestTest" />
+        <item itemvalue="Application.Greatest" />
+        <item itemvalue="JUnit.SmallestTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7948f54a-a712-4180-a6e7-e9a02fb2c8f5" name="Changes" comment="" />
+      <created>1736413333431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736413333431</updated>
+    </task>
+    <servers />
+  </component>
+</project>
