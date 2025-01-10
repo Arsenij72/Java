@@ -7,7 +7,7 @@ public class DoubleInput {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Give a number:");
 
-        float unput = scanner.nextFloat();
+        double input = Double.parseDouble(scanner.nextLine());
         System.out.println("You gave the number " + input);
 
     }
