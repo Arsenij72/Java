@@ -5,9 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7948f54a-a712-4180-a6e7-e9a02fb2c8f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/.idea/2.2 uzduotis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_01.VariousVariables/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_01.VariousVariables/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_01.VariousVariables/src/main/java/VariousVariables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_01.VariousVariables/src/test/java/VariousVariablesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_02.IntegerInput/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_02.IntegerInput/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_02.IntegerInput/src/main/java/IntegerInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_02.IntegerInput/src/test/java/IntegerInputTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_03.DoubleInput/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_03.DoubleInput/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_03.DoubleInput/src/main/java/DoubleInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_03.DoubleInput/src/test/java/DoubleInputTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_04.DifferentTypesOfInput/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_04.DifferentTypesOfInput/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_04.DifferentTypesOfInput/src/main/java/DifferentTypesOfInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_04.DifferentTypesOfInput/src/test/java/DifferentTypesOfInputTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_05.SecondsInADay/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_05.SecondsInADay/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_05.SecondsInADay/src/main/java/SecondsInADay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_05.SecondsInADay/src/test/java/SecondsInADayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_06.SumOfThreeNumbers/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_06.SumOfThreeNumbers/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_06.SumOfThreeNumbers/src/main/java/SumOfThreeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_06.SumOfThreeNumbers/src/test/java/SumOfThreeNumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_07.MultiplicationFormula/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_07.MultiplicationFormula/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_07.MultiplicationFormula/src/main/java/MultiplicationFormula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_07.MultiplicationFormula/src/test/java/MultiplicationFormulaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_08.AverageOfThreeNumbers/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_08.AverageOfThreeNumbers/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_08.AverageOfThreeNumbers/src/main/java/AverageOfThreeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_08.AverageOfThreeNumbers/src/test/java/AverageOfThreeNumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_09.SimpleCalculator/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_09.SimpleCalculator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_09.SimpleCalculator/src/main/java/SimpleCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/02_09.SimpleCalculator/src/test/java/SimpleCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 uzduotis/uzduotis/uzduotis.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uzduotis 2.1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../uzduotis 2.1/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uzduotis/05_02.Reprint/src/main/java/Reprint.java" beforeDir="false" afterPath="$PROJECT_DIR$/uzduotis/05_02.Reprint/src/main/java/Reprint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uzduotis/05_10.Averaging/src/main/java/Averaging.java" beforeDir="false" afterPath="$PROJECT_DIR$/uzduotis/05_10.Averaging/src/main/java/Averaging.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/05_03.FromOneToParameter/src/main/java/FromOneToParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/uzduotis/05_03.FromOneToParameter/src/main/java/FromOneToParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/05_04.FromParameterToOne/src/main/java/FromParameterToOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/uzduotis/05_04.FromParameterToOne/src/main/java/FromParameterToOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/05_05.Division/src/main/java/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/uzduotis/05_05.Division/src/main/java/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/05_11.StarSign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/uzduotis/05_11.StarSign/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/05_11.StarSign/src/main/java/StarSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/uzduotis/05_11.StarSign/src/main/java/StarSign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/05_12.AdvancedAstrology/src/main/java/AdvancedAstrology.java" beforeDir="false" afterPath="$PROJECT_DIR$/uzduotis/05_12.AdvancedAstrology/src/main/java/AdvancedAstrology.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../uzduotis/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../uzduotis/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../uzduotis/.idea/encodings.xml" beforeDir="false" />
@@ -67,6 +111,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AdvancedAstrology (1).executor": "Run",
+    "Application.AdvancedAstrology.executor": "Run",
     "Application.Averaging.executor": "Run",
     "Application.DivideByThree.executor": "Run",
     "Application.DivisibleByThree (1).executor": "Run",
@@ -76,10 +122,12 @@
     "Application.FromParameterToOne.executor": "Run",
     "Application.Greatest.executor": "Run",
     "Application.InAHoleInTheGround.executor": "Run",
-    "Application.Reprint.executor": "Run",
+    "Application.Reprint.executor": "Debug",
     "Application.Smallest.executor": "Run",
+    "Application.StarSign.executor": "Run",
     "Application.Summation.executor": "Run",
     "Application.divideByThree.executor": "Run",
+    "JUnit.AdvancedAstrologyTest.executor": "Run",
     "JUnit.All in 05_05.Division.executor": "Run",
     "JUnit.AveragingTest.executor": "Run",
     "JUnit.DivisibleByThreeTest.executor": "Run",
@@ -88,52 +136,54 @@
     "JUnit.FromParameterToOneTest.executor": "Run",
     "JUnit.GreatestTest.executor": "Run",
     "JUnit.InAHoleInTheGroundTest.executor": "Run",
+    "JUnit.ReprintTest.executor": "Run",
     "JUnit.SmallestTest.executor": "Run",
+    "JUnit.StarSignTest.executor": "Run",
     "JUnit.SummationTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/D3PT/Documents/GitHub/Java/2.2 uzduotis",
     "settings.editor.selected.configurable": "google-java-format.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.ReprintTest">
-    <configuration name="Averaging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Averaging" />
-      <module name="05_12.Averaging" />
+  <component name="RunManager" selected="Application.AdvancedAstrology">
+    <configuration name="AdvancedAstrology (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="AdvancedAstrology" />
+      <module name="05_14.AdvancedAstrology" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reprint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reprint" />
-      <module name="05_02.Reprint" />
+    <configuration name="AdvancedAstrology" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedAstrology" />
+      <module name="05_14.AdvancedAstrology" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AveragingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="05_12.Averaging" />
+    <configuration name="StarSign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarSign" />
+      <module name="05_13.StarSign" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdvancedAstrologyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05_14.AdvancedAstrology" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AveragingTest" />
+      <option name="MAIN_CLASS_NAME" value="AdvancedAstrologyTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreatestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="05_11.Greatest" />
+    <configuration name="StarSignTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05_13.StarSign" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GreatestTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReprintTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="05_02.Reprint" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ReprintTest" />
+      <option name="MAIN_CLASS_NAME" value="StarSignTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -141,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ReprintTest" />
-        <item itemvalue="Application.Reprint" />
-        <item itemvalue="JUnit.AveragingTest" />
-        <item itemvalue="Application.Averaging" />
-        <item itemvalue="JUnit.GreatestTest" />
+        <item itemvalue="Application.AdvancedAstrology" />
+        <item itemvalue="Application.AdvancedAstrology (1)" />
+        <item itemvalue="JUnit.StarSignTest" />
+        <item itemvalue="Application.StarSign" />
+        <item itemvalue="JUnit.AdvancedAstrologyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -159,5 +209,21 @@
       <updated>1736413333431</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/uzduotis/05_02.Reprint/src/main/java/Reprint.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/uzduotis_5_1$FromOneToParameter.ic" NAME="FromOneToParameter Coverage Results" MODIFIED="1736486334031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/uzduotis_5_1$FromParameterToOne.ic" NAME="FromParameterToOne Coverage Results" MODIFIED="1736486472294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/uzduotis_5_1$ReprintTest.ic" NAME="ReprintTest Coverage Results" MODIFIED="1736486155086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
