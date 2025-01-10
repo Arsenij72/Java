@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7948f54a-a712-4180-a6e7-e9a02fb2c8f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uzduotis 5.1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/05_02.Reprint/src/main/java/Reprint.java" beforeDir="false" afterPath="$PROJECT_DIR$/uzduotis/05_02.Reprint/src/main/java/Reprint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/05_10.Averaging/src/main/java/Averaging.java" beforeDir="false" afterPath="$PROJECT_DIR$/uzduotis/05_10.Averaging/src/main/java/Averaging.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../uzduotis/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../uzduotis/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../uzduotis/.idea/encodings.xml" beforeDir="false" />
@@ -71,6 +67,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Averaging.executor": "Run",
     "Application.DivideByThree.executor": "Run",
     "Application.DivisibleByThree (1).executor": "Run",
     "Application.DivisibleByThree.executor": "Run",
@@ -84,10 +81,12 @@
     "Application.Summation.executor": "Run",
     "Application.divideByThree.executor": "Run",
     "JUnit.All in 05_05.Division.executor": "Run",
+    "JUnit.AveragingTest.executor": "Run",
     "JUnit.DivisibleByThreeTest.executor": "Run",
     "JUnit.DivisionTest.executor": "Run",
     "JUnit.FromOneToParameterTest.executor": "Run",
     "JUnit.FromParameterToOneTest.executor": "Run",
+    "JUnit.GreatestTest.executor": "Run",
     "JUnit.InAHoleInTheGroundTest.executor": "Run",
     "JUnit.SmallestTest.executor": "Run",
     "JUnit.SummationTest.executor": "Run",
@@ -98,7 +97,7 @@
     "settings.editor.selected.configurable": "google-java-format.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.AveragingTest">
+  <component name="RunManager" selected="JUnit.ReprintTest">
     <configuration name="Averaging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Averaging" />
       <module name="05_12.Averaging" />
@@ -106,9 +105,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greatest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greatest" />
-      <module name="05_11.Greatest" />
+    <configuration name="Reprint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reprint" />
+      <module name="05_02.Reprint" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,10 +130,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="05_10.Smallest" />
+    <configuration name="ReprintTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05_02.Reprint" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SmallestTest" />
+      <option name="MAIN_CLASS_NAME" value="ReprintTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ReprintTest" />
+        <item itemvalue="Application.Reprint" />
         <item itemvalue="JUnit.AveragingTest" />
         <item itemvalue="Application.Averaging" />
         <item itemvalue="JUnit.GreatestTest" />
-        <item itemvalue="Application.Greatest" />
-        <item itemvalue="JUnit.SmallestTest" />
       </list>
     </recent_temporary>
   </component>
