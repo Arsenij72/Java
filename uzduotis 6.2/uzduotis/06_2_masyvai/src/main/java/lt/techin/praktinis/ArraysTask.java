@@ -19,6 +19,7 @@ public class ArraysTask {
         getMin(arr);
         getMax(arr);
         getSum(arr);
+        getAverage(arr);
     }
 
     //Metodas turi grąžinti pirmą masyvo elementą
@@ -55,14 +56,19 @@ public class ArraysTask {
         int total = 0;
         for (int i = 0; i < arr.length; i++) {
             total = total + arr[i];
-            System.out.printf("Total: %d\n", total);
         }
+        System.out.printf("Total: %d\n", total);
         return 0;
     }
 
     //Raskite masyvo elementų vidurkį
     public static int getAverage(int[] arr) {
-        //TODO
+        int sum = 0;
+        for (int i = 0; i < arr.length; i++) {
+            sum += arr[i];
+        }
+        int average = sum / arr.length;
+        System.out.printf("Average: %d\n", average);
         return 0;
     }
 
