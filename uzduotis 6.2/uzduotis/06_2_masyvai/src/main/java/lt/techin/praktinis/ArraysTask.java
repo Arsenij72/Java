@@ -1,5 +1,6 @@
 package lt.techin.praktinis;
 
+import java.util.Scanner;
 import java.util.stream.IntStream;
 
 public class ArraysTask {
@@ -20,6 +21,7 @@ public class ArraysTask {
         getMax(arr);
         getSum(arr);
         getAverage(arr);
+
     }
 
     //Metodas turi grąžinti pirmą masyvo elementą
@@ -75,7 +77,7 @@ public class ArraysTask {
 
     //Suskaičiuokite kiek masyve yra skaičių, didesnių nei duotas skaičius n
     public static int countElements(int[] arr, int n) {
-        //TODO
+
         return 0;
     }
 
