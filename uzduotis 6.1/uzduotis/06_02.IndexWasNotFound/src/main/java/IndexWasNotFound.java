@@ -8,6 +8,7 @@ public class IndexWasNotFound {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] array = new int[10];
+        int i;
         array[0] = 6;
         array[1] = 2;
         array[2] = 8;
@@ -19,20 +20,18 @@ public class IndexWasNotFound {
 
         System.out.print("Search for? ");
         int searching = Integer.valueOf(scanner.nextLine());
+
+
 //boolean
-        int j = 0;
-        int i = j;
 
         for (i = 0; i < array.length; i++) {
             if (array[i] == searching) {
                 System.out.println(searching + " is at index " + i);
-
+                return;
             }
         }
-        if (j > 10) {
-            System.out.println(searching + " was not found.");
-        }
 
+        System.out.println(searching + " was not found.");
     }
 }
 
