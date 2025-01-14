@@ -9,7 +9,7 @@ public class IndexOf {
         ArrayList<Integer> list = new ArrayList<>();
         while (true) {
             int input = Integer.valueOf(scanner.nextLine());
-            if (input == -1) {
+            if (input == 9999) {
                 break;
             }
 
@@ -23,14 +23,13 @@ public class IndexOf {
                 smallest = number;
             }
         }
-        System.out.println("Smallest number:" + smallest);
+        System.out.println("Smallest number: " + smallest);
         int i = 0;
         while (i < list.size()) {
             if (smallest == list.get(i)) {
                 System.out.println("Found at index" + " " + i);
             }
             i++;
-
         }
     }
 }
