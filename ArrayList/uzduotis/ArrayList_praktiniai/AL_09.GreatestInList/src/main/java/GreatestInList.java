@@ -20,7 +20,6 @@ public class GreatestInList {
 
         for (int i = 0; i < list.size(); i++) {
             if (greatest < list.get(i)) ;
-
             {
                 greatest = list.get(i);
             }

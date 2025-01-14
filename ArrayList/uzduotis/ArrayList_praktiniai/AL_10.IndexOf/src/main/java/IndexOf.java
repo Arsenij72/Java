@@ -6,30 +6,19 @@ public class IndexOf {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+int i;
         ArrayList<Integer> list = new ArrayList<>();
         while (true) {
             int input = Integer.valueOf(scanner.nextLine());
-            if (input == 9999) {
+            if (input == -1) {
                 break;
             }
 
             list.add(input);
         }
 
-        int smallest = list.get(0);
-        for (int i = 0; i < list.size(); i++) {
-            int number = list.get(i);
-            if (smallest > number) {
-                smallest = number;
-            }
-        }
-        System.out.println("Smallest number: " + smallest);
-        int i = 0;
-        while (i < list.size()) {
-            if (smallest == list.get(i)) {
-                System.out.println("Found at index" + " " + i);
-            }
-            i++;
-        }
+        System.out.println("");
+        for (i = 0; i < list.length; i++) {
+        // implement here finding the indices of a number
     }
 }
