@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="FormatOnSaveOptions">
-    <option name="myRunOnSave" value="true" />
-  </component>
   <component name="GoogleJavaFormatSettings">
     <option name="enabled" value="true" />
   </component>
@@ -21,6 +18,7 @@
         <option value="$PROJECT_DIR$/uzduotis/08_10.Multiplier/pom.xml" />
         <option value="$PROJECT_DIR$/uzduotis/08_12.PaymentCard/pom.xml" />
         <option value="$PROJECT_DIR$/uzduotis/08_11.NumberStatistics/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/08_05.DecreasingCounter/pom.xml" />
       </list>
     </option>
   </component>
