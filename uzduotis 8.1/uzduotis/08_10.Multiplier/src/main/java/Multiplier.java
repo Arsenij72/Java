@@ -8,7 +8,7 @@ public class Multiplier {
 
     public int multiply(int number) {
 
-        return number * Multiplier;
+        return number * this.number;
     }
 }
 
